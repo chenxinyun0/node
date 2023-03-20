@@ -1,11 +1,4 @@
-/*
- * @Author: 陈鑫宇 xinyu.chen@eeoa.com
- * @Date: 2022-12-21 11:58:07
- * @LastEditors: 陈鑫宇 xinyu.chen@eeoa.com
- * @LastEditTime: 2023-01-05 19:50:41
- * @FilePath: /node/句柄传递/child_test2.js
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
+
 const http = require('http');
 
 const server = http.createServer(function(req, res) {
